@@ -1,5 +1,5 @@
 {
-  "name": "dateRanges",
+  "name": "dateranger",
   "version": "0.0.1",
   "description": "A tool to compare date ranges.",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jthoms1/dateRanges"
+    "url": "https://github.com/jthoms1/dateranger"
   },
   "engines": {
     "node": ">=0.10.0"
