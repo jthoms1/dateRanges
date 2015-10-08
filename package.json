@@ -1,0 +1,22 @@
+{
+  "name": "dateRanges",
+  "version": "0.0.1",
+  "description": "A tool to compare date ranges.",
+  "scripts": {
+    "test": "mocha 'tests/**/*.js' --check-leaks --reporter spec --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jthoms1/dateRanges"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "moment": "^2.10.2"
+  },
+  "devDependencies": {
+    "expect.js": "^0.3.1",
+    "mocha": "^2.2.5"
+  }
+}
