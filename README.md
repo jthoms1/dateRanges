@@ -1,5 +1,5 @@
 [![Build
-Status](https://travis-ci.org/jthoms1/dateRanges.png?branch=master)](https://travis-ci.org/jthoms1/dateRanges)
+Status](https://travis-ci.org/jthoms1/dateranger.png?branch=master)](https://travis-ci.org/jthoms1/dateranger)
 
 
 dateranger
